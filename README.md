@@ -13,7 +13,7 @@ This repo has material of my course course on Data Science 2022.
 1. [Exercises](#exercises)
 1. [References](#references)
 
-=== 
+----------------
 
 ## 1. Python Basics <a name = pythonBasics></a>
 
