@@ -13,8 +13,9 @@ This repo has material of my course course on Data Science 2022.
 1. [Exercises](#exercises)
 1. [References](#references)
 
+=== 
 
-1. Python Basics <a name = pythonBasics></a>
+## 1. Python Basics <a name = pythonBasics></a>
 
 Here you find some extra material, I will try to put all the references; however, let me know if I missed any paper, repository or slides.
 I will happy to put your material like part of my documentation.
